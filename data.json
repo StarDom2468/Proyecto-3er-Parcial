@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "nombre": "Control remoto xbox",
+    "precio": 1500.00,
+    "cantidad": 1.20,
+    "descuento": 0.15,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 2,
+    "nombre": "Consola xbox",
+    "precio": 6500.00,
+    "cantidad": 1.65,
+    "descuento": 1.70,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 3,
+    "nombre": "Nintedo switsh",
+    "precio": 8500.00,
+    "cantidad": 1.00,
+    "descuento": 0.70,
+    "marca": "Nintendo"
+  },
+  {
+    "id": 4,
+    "nombre": "Tarjeta de regalo swith",
+    "precio": 500.00,
+    "cantidad": 2.20,
+    "descuento": 1.10,
+    "marca": "Nintendo"
+  },
+  {
+    "id": 5,
+    "nombre": "Disco de juego xbox",
+    "precio": 500.00,
+    "cantidad": 1.40,
+    "descuento": 0.45,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 6,
+    "nombre": "Consola PlayStation",
+    "precio": 13000.00,
+    "cantidad": 1.00,
+    "descuento": 0.35,
+    "marca": "Sony"
+  },
+  {
+    "id": 7,
+    "nombre": "Tarjeta de Game pass",
+    "precio": 560.00,
+    "cantidad": 3.57,
+    "descuento": 0.90,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 8,
+    "nombre": "Control remoto swith",
+    "precio": 2500.00,
+    "cantidad": 2.30,
+    "descuento": 0.75,
+    "marca": "Nintendo"
+  },
+  {
+    "id": 9,
+    "nombre": "Teclado inalambrico",
+    "precio": 400.00,
+    "cantidad": 1.00,
+    "descuento": 1.98,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 10,
+    "nombre": "Audifonos cascos inalambricos",
+    "precio": 2700.00,
+    "cantidad": 1.10,
+    "descuento": 3.00,
+    "marca": "Sony"
+  },
+  {
+    "id": 11,
+    "nombre": "Raton de computadora",
+    "precio": 300.00,
+    "cantidad": 1.20,
+    "descuento": 1.47,
+    "marca": "Sony"
+  },
+  {
+    "id": 12,
+    "nombre": "Monitor 4k",
+    "precio": 5000.00,
+    "cantidad": 1.00,
+    "descuento": 0.54,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 13,
+    "nombre": "Computadora gamer",
+    "precio": 20000.30,
+    "cantidad": 1.40,
+    "descuento": 0.30,
+    "marca": "Dell"
+  },
+  {
+    "id": 14,
+    "nombre": "Silla reclinable",
+    "precio": 75000.00,
+    "cantidad": 1.17,
+    "descuento": 0.50,
+    "marca": "Sony"
+  },
+  {
+    "id": 15,
+    "nombre": "Tarjeta de puntos xbox",
+    "precio": 300.00,
+    "cantidad": 2.00,
+    "descuento": 1.40,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 16,
+    "nombre": "Escritorio de oficina",
+    "precio": 8000.00,
+    "cantidad": 1.00,
+    "descuento": 1.80,
+    "marca": "Office"
+  },
+  {
+    "id": 17,
+    "nombre": "Tarjeta de regalo monedas swith",
+    "precio": 600.00,
+    "cantidad": 1.60,
+    "descuento": 0.24,
+    "marca": "Nintendo"
+  },
+  {
+    "id": 18,
+    "nombre": "Monitor 5k",
+    "precio": 7000.00,
+    "cantidad": 2.90,
+    "descuento": 0.90,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 19,
+    "nombre": "Tarjeta de regalo PlayStation",
+    "precio": 500.30,
+    "cantidad": 5.00,
+    "descuento": 0.40,
+    "marca": "Sony"
+  },
+  {
+    "id": 20,
+    "nombre": "Disco de juego PlayStation",
+    "precio": 600.80,
+    "cantidad": 1.00,
+    "descuento": 1.16,
+    "marca": "Sony"
+  },
+  {
+    "id": 21,
+    "nombre": "Tarjeta de regalo xbox",
+    "precio": 500.00,
+    "cantidad": 1.20,
+    "descuento": 0.15,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 22,
+    "nombre": "Computadora oficina",
+    "precio": 9000.00,
+    "cantidad": 1.65,
+    "descuento": 1.70,
+    "marca": "Office"
+  },
+  {
+    "id": 23,
+    "nombre": "Consola nintedo swith oled",
+    "precio": 9000.00,
+    "cantidad": 1.00,
+    "descuento": 0.70,
+    "marca": "Nintendo"
+  },
+  {
+    "id": 24,
+    "nombre": "Consola xbox ONE",
+    "precio": 6500.00,
+    "cantidad": 1.20,
+    "descuento": 1.10,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 25,
+    "nombre": "Consola PlayStation 4",
+    "precio": 7500.00,
+    "cantidad": 1.40,
+    "descuento": 0.45,
+    "marca": "Sony"
+  },
+  {
+    "id": 26,
+    "nombre": "Control de nintendo swith",
+    "precio": 1300.00,
+    "cantidad": 2.00,
+    "descuento": 0.35,
+    "marca": "Nintendo"
+  },
+  {
+    "id": 27,
+    "nombre": "Tarjeta de regalo Microsoft",
+    "precio": 560.00,
+    "cantidad": 1.57,
+    "descuento": 0.90,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 28,
+    "nombre": "Consola xbox Series X",
+    "precio": 13000.00,
+    "cantidad": 1.30,
+    "descuento": 0.75,
+    "marca": "Microsoft"
+  },
+  {
+    "id": 29,
+    "nombre": "Audifonos inalambricos",
+    "precio": 600.00,
+    "cantidad": 1.00,
+    "descuento": 1.98,
+    "marca": "Sony"
+  },
+  {
+    "id": 30,
+    "nombre": "Raton de escritorio gamer",
+    "precio": 700.00,
+    "cantidad": 3.10,
+    "descuento": 3.00,
+    "marca": "Microsoft"
+  }
+]
